@@ -5,7 +5,7 @@ import { NavigationContainer }
  import { createNativeStackNavigator } 
  from '@react-navigation/native-stack';
 
- import Game from './screens/Game';
+import Game from './screens/Game';
 import Home from './screens/Home';
 const Stack = createNativeStackNavigator();
 export default function App() {
